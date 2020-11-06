@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternetChecker", "InternetChecker\InternetChecker.csproj", "{BDC04FF9-CF92-4557-A664-B08265B90B1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDC04FF9-CF92-4557-A664-B08265B90B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC04FF9-CF92-4557-A664-B08265B90B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC04FF9-CF92-4557-A664-B08265B90B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC04FF9-CF92-4557-A664-B08265B90B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C083E877-6EB9-4742-84B9-3EC50F2AB49C}
+	EndGlobalSection
+EndGlobal
